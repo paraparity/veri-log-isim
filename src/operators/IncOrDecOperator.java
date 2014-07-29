@@ -1,7 +1,7 @@
 package operators;
 
 public enum IncOrDecOperator {
-	// Symbol	Type
-	// ++		Integral, real, shortreal
-	// --		Integral, real, shortreal
+					// Symbol	Type
+	INCREMENT,		// ++		Integral, real, shortreal
+	DECREMENT		// --		Integral, real, shortreal
 }

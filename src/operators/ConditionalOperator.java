@@ -1,6 +1,6 @@
 package operators;
 
 public enum ConditionalOperator {
-	// Symbol	Type
-	// ?:		Any
+				// Symbol	Type
+	CONDITION	// ?:		Any
 }
