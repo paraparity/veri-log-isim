@@ -1,4 +1,4 @@
-package operators;
+package enumerations.operators;
 
 public enum StreamOperator {
 								// Symbol	Type

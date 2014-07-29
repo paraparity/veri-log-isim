@@ -1,4 +1,4 @@
-package operators;
+package enumerations.operators;
 
 public enum UnaryOperator {
 							// Symbol	Type
